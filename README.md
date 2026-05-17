@@ -12,7 +12,7 @@ Breakthrough
 
 # 🙋 Who Am I?
 
-I'm a developer from the Philippines 🇵🇭  
+I'm a developer from the Philippines 
 Passionate about Flutter, Web Development and eager to learn
 
 ---
